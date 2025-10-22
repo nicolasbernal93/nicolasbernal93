@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I’m **Nicolás Bernal Arteaga** 
+🚀 Automation & AI Engineer passionate about creating intelligent workflows that connect people, systems, and data.
 
-<!--
-**nicolasbernal93/nicolasbernal93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+🛠️ Top skills: Power Platform · n8n · AI Platforms API · Microsoft 365 · Azure · LangChain  
+🤖 Focused on building **AI-driven automation systems** that make business processes smarter and faster.  
+🌱 Passionate about **low-code innovation**, **data intelligence**, and **human-AI collaboration**.  
+🤝 Always open to collaborating on projects that combine **AI + Automation + Real Impact**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+`Power Platform` · `n8n` · `Microsoft 365` · `OpenAI API` · `Azure AI` · `LangChain`  
+`Power BI` · `Dataverse` · `Microsoft Graph API` · `Python` · `React` · `RAG Systems`
+
+---
+
+### 🌐 Connect with Me
+💼 [LinkedIn](https://linkedin.com/in/nicolasbernalarteaga)  
+📧 nicolas.consultor@outlook.com  
+
+> “Let’s build something extraordinary — combining automation, intelligence, and purpose.”
+
+---
+
+⭐ *Exploring the intersection of AI, automation, and digital transformation — one workflow at a time.*
+
